@@ -1,3 +1,8 @@
+/*
+  Descrizione: Ricerca di un numero all'interno di un vettore con funzione
+  Input: Numero da cercare
+  Output: Riccorrenze e posizione di quel numero
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
